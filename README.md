@@ -1,9 +1,10 @@
-<<<<<<< HEAD
+D
 # grunt-electronics-scaffolding
 
 > Creates front end project scaffolding for the electronics team.
-	- Includes the following libraries: jQuery, Backbone, Underscore, Qunit.
-	- Includes the following automated tasks concat, uglify, imagemin, sass, qunit, jshint, watch
+..* Includes the following libraries: jQuery, Backbone, Underscore, Qunit.
+..* Includes the following automated tasks concat, uglify, imagemin, sass, qunit, jshint, watch
+
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
