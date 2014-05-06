@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # grunt-electronics-scaffolding
 
 > Creates front end project scaffolding for the electronics team.
@@ -31,3 +32,9 @@ Before running the grunt-init command run the following command:
 
 _Note that this template will generate files in the current directory, so be sure to change to a new directory first if you don't want to overwrite existing files._
 
+=======
+electronics-scaffolding
+=======================
+
+Front end project scaffolding (A grunt-init template)
+>>>>>>> 3d8c2c326f9d283e23cbfc13b1a7aa71370e7a73
