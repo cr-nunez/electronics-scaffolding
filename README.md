@@ -1,9 +1,13 @@
 # grunt-electronics-scaffolding
 
-> Creates front end project scaffolding for the electronics team.
-Includes the following libraries: jQuery, Backbone, Underscore, Qunit.
-Includes the following automated tasks concat, uglify, imagemin, sass, qunit, jshint, watch
 
+
+```
+Creates front end project scaffolding for the electronics team.
+	Includes the following libraries: jQuery, Backbone, Underscore, Qunit.
+	Includes the following automated tasks concat, uglify, imagemin, sass, qunit, jshint, watch
+
+```
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
@@ -26,7 +30,6 @@ At the command-line, cd into an empty directory, run this command and follow the
 The image minification plugin requires requires a brew install on mac.
 Before running the grunt-init command run the following command:
 	brew install libpng
-
 	grunt-init project-scaffolding
 ```
 
