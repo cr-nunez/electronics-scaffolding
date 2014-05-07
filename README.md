@@ -30,7 +30,7 @@ At the command-line, cd into an empty directory, run this command and follow the
 The image minification plugin requires requires a brew install on mac.
 Before running the grunt-init command run the following command:
 	brew install libpng
-	grunt-init project-scaffolding
+	grunt-init electronics-scaffolding
 ```
 
 _Note that this template will generate files in the current directory, so be sure to change to a new directory first if you don't want to overwrite existing files._
