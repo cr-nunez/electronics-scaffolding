@@ -12,9 +12,7 @@ Creates front end project scaffolding for the electronics team.
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
 ## Installation
-If you haven't already done so, install [grunt-init][].
-
-Once grunt-init is installed, place this template in your `~/.grunt-init/` directory. It's recommended that you use git to clone this template into that directory, as follows:
+If you haven't already done so, install [grunt-init][]. Next, use the command below to clone this repository to your dev box. 
 
 ```
 git clone git@github.com:cr-nunez/electronics-scaffolding.git ~/.grunt-init/electronics-scaffolding
